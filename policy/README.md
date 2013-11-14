@@ -1,0 +1,2 @@
+# Joomla! Project Policies
+
